@@ -11,6 +11,9 @@
 <a href="https://github.com/mpolinowski/html5_video_prefix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=html5_video_prefix&theme=tokyonight" />
 </a>
+<a href="https://github.com/mpolinowski/victory-data-chart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=victory-data-chart&theme=tokyonight" />
+</a>
 <a href="https://github.com/anuraghazra/tomcat-docker-cluster">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=tomcat-docker-cluster&theme=tokyonight" />
 </a>
@@ -22,9 +25,6 @@
 </a>
 <a href="https://github.com/mpolinowski/reactive_search">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=reactive_search&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/victory-data-chart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=victory-data-chart&theme=tokyonight" />
 </a>
 <a href="https://github.com/mpolinowski/nodered-mqtt-connect">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nodered-mqtt-connect&theme=tokyonight" />
