@@ -36,7 +36,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpolinowski&theme=tokyonight&hide=html" />
 </a>
 
-- ⚡ Fun facts:
+
+### ⚡ Fun facts:
 
 ✨ ¯\_(ツ)_/¯ ✨
 
