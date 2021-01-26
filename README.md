@@ -55,4 +55,4 @@
 > I am still bitter about having to learn French in school. I think the coolest place to be right now, would be {addLocation}. I travel a lot. I don´t believe in plans.
 
 
-![Anapurna, Pokhara, Nepal](./anapurna.jpg)
+![Anapurna, Pokhara, Nepal](./hk-cent.jpg)
