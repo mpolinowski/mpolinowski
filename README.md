@@ -39,7 +39,7 @@
 
 ### ⚡ Fun facts:
 
-✨ ¯\_(ツ)_/¯ ✨
+✨ ¯\\_(ツ)_/¯ ✨
 
  
 > My favorite clouds are greenish black Cumulonimbus. If I could get a hold of some cobra blood, I would drink it. I eat bacon, lettuce tomato sandwiches. My drug of choice is caffeine. I don´t believe in veganism.
