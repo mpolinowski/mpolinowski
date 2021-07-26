@@ -8,6 +8,9 @@
 
 ### Repositories
 
+<a href="https://github.com/mpolinowski/nginx_docker_ingress">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nginx_docker_ingress&theme=tokyonight" />
+</a>
 <a href="https://github.com/mpolinowski/html5_video_prefix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=html5_video_prefix&theme=tokyonight" />
 </a>
