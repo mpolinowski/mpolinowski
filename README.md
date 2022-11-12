@@ -11,26 +11,44 @@
 <a href="https://github.com/mpolinowski/nginx_docker_ingress">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nginx_docker_ingress&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/tomcat-docker-cluster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=tomcat-docker-cluster&theme=tokyonight" />
+<a href="https://github.com/mpolinowski/go-cicd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=go-cicd&theme=tokyonight" />
 </a>
-<a href="https://github.com/mpolinowski/html5_video_prefix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=html5_video_prefix&theme=tokyonight" />
+<a href="https://github.com/mpolinowski/osticket-nomad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=osticket-nomad&theme=tokyonight" />
 </a>
-<a href="https://github.com/mpolinowski/victory-data-chart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=victory-data-chart&theme=tokyonight" />
+<a href="https://github.com/mpolinowski/python-nltk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=python-nltk&theme=tokyonight" />
 </a>
-<a href="https://github.com/mpolinowski/gatsby-multilang-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=gatsby-multilang-template&theme=tokyonight" />
+<a href="https://github.com/mpolinowski/python-search">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=python-search&theme=tokyonight" />
 </a>
-<a href="https://github.com/mpolinowski/paho_mqtt_instar_alarmserver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=paho_mqtt_instar_alarmserver&theme=tokyonight" />
+<a href="https://github.com/mpolinowski/ha-mqtt-python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=ha-mqtt-python&theme=tokyonight" />
 </a>
-<a href="https://github.com/mpolinowski/nodered-mqtt-connect">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nodered-mqtt-connect&theme=tokyonight" />
+<a href="https://github.com/mpolinowski/docusaurus_elasticsearch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=docusaurus_elasticsearch&theme=tokyonight" />
 </a>
-<a href="https://github.com/mpolinowski/reactive_search">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=reactive_search&theme=tokyonight" />
+<a href="https://github.com/mpolinowski/nomad-nts-chrony">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nomad-nts-chrony&theme=tokyonight" />
+</a>
+<a href="https://github.com/mpolinowski/elk-server-compose">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=elk-server-compose&theme=tokyonight" />
+</a>
+<a href="https://github.com/mpolinowski/opencv2-tracking-algorithm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=opencv2-tracking-algorithm&theme=tokyonight" />
+</a>
+<a href="https://github.com/mpolinowski/opencv-rtsp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=opencv-rtsp&theme=tokyonight" />
+</a>
+<a href="https://github.com/mpolinowski/zabbix-server-compose">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=zabbix-server-compose&theme=tokyonight" />
+</a>
+<a href="https://github.com/mpolinowski/streamLit-cv-mediapipe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=streamLit-cv-mediapipe&theme=tokyonight" />
+</a>
+<a href="https://github.com/mpolinowski/html_ws_client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=html_ws_client&theme=tokyonight" />
 </a>
 
 ### Top Languages
