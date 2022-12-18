@@ -26,8 +26,8 @@
 <a href="https://github.com/mpolinowski/python-nltk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=python-nltk&theme=tokyonight" />
 </a>
-<a href="https://github.com/mpolinowski/python-search">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=python-search&theme=tokyonight" />
+<a href="https://github.com/mpolinowski/nomad-loadbalanced-nts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nomad-loadbalanced-nts&theme=tokyonight" />
 </a>
 <a href="https://github.com/mpolinowski/ha-mqtt-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=ha-mqtt-python&theme=tokyonight" />
@@ -47,20 +47,20 @@
 <a href="https://github.com/mpolinowski/opencv-rtsp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=opencv-rtsp&theme=tokyonight" />
 </a>
+<a href="https://github.com/mpolinowski/nomad-zabbix-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nomad-zabbix-server&theme=tokyonight" />
+</a>
 <a href="https://github.com/mpolinowski/zabbix-server-compose">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=zabbix-server-compose&theme=tokyonight" />
 </a>
-<a href="https://github.com/mpolinowski/streamLit-cv-mediapipe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=streamLit-cv-mediapipe&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/html_ws_client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=html_ws_client&theme=tokyonight" />
+<a href="https://github.com/mpolinowski/docusaurus_elasticsearch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=docusaurus_elasticsearch&theme=tokyonight" />
 </a>
 
 ### Top Languages
 
 <a href="https://github.com/mpolinowski/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpolinowski&theme=tokyonight&hide=html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpolinowski&theme=tokyonight&hide=java,css,html&layout=compact&langs_count=8" />
 </a>
 
 
