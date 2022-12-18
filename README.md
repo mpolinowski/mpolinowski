@@ -60,7 +60,7 @@
 ### Top Languages
 
 <a href="https://github.com/mpolinowski/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpolinowski&theme=tokyonight&hide=java,css,html&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpolinowski&theme=tokyonight&hide=java,css,html&langs_count=4" />
 </a>
 
 
