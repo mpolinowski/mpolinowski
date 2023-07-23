@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nginx_docker_ingress&theme=tokyonight" />
 </a>
 <a href="https://github.com/mpolinowski/nomadic-mautic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nomadic-mautic&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=i-know-flowers&theme=tokyonight" />
 </a>
 <a href="https://github.com/mpolinowski/nomadic-borg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nomadic-borg&theme=tokyonight" />
