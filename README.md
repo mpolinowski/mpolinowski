@@ -41,11 +41,11 @@
 <a href="https://github.com/mpolinowski/elk-server-compose">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=elk-server-compose&theme=tokyonight" />
 </a>
-<a href="https://github.com/mpolinowski/opencv2-tracking-algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=opencv2-tracking-algorithm&theme=tokyonight" />
-</a>
 <a href="https://github.com/mpolinowski/opencv-rtsp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=opencv-rtsp&theme=tokyonight" />
+</a>
+<a href="https://github.com/mpolinowski/opencv2-tracking-algorithm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=opencv2-tracking-algorithm&theme=tokyonight" />
 </a>
 <a href="https://github.com/mpolinowski/nomad-zabbix-server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nomad-zabbix-server&theme=tokyonight" />
