@@ -26,14 +26,14 @@
 <a href="https://github.com/mpolinowski/python-nltk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=python-nltk&theme=tokyonight" />
 </a>
-<a href="https://github.com/mpolinowski/nomad-loadbalanced-nts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nomad-loadbalanced-nts&theme=tokyonight" />
+<a href="https://github.com/mpolinowski/tf-i-know-flowers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=tf-i-know-flowers&theme=tokyonight" />
 </a>
 <a href="https://github.com/mpolinowski/ha-mqtt-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=ha-mqtt-python&theme=tokyonight" />
 </a>
-<a href="https://github.com/mpolinowski/docusaurus_elasticsearch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=docusaurus_elasticsearch&theme=tokyonight" />
+<a href="https://github.com/mpolinowski/nomad-loadbalanced-nts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nomad-loadbalanced-nts&theme=tokyonight" />
 </a>
 <a href="https://github.com/mpolinowski/nomad-nts-chrony">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nomad-nts-chrony&theme=tokyonight" />
