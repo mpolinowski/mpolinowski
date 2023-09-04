@@ -53,8 +53,8 @@
 <a href="https://github.com/mpolinowski/zabbix-server-compose">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=zabbix-server-compose&theme=tokyonight" />
 </a>
-<a href="https://github.com/mpolinowski/docusaurus_elasticsearch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=docusaurus_elasticsearch&theme=tokyonight" />
+<a href="https://github.com/mpolinowski/yolo-i-know-flowers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=yolo-i-know-flowers&theme=tokyonight" />
 </a>
 
 ### Top Languages
