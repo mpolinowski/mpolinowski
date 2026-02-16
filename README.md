@@ -1,67 +1,6 @@
 ## Hi there 👋
 
-<a href="https://github.com/mpolinowski/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mpolinowski&show_icons=true&theme=tokyonight" />
-</a>
-
-
-
-### Repositories
-
-<a href="https://github.com/mpolinowski/nginx_docker_ingress">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nginx_docker_ingress&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/nomadic-mautic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=i-know-flowers&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/nomadic-borg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nomadic-borg&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/go-cicd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=go-cicd&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/osticket-nomad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=osticket-nomad&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/python-nltk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=python-nltk&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/tf-i-know-flowers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=tf-i-know-flowers&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/ha-mqtt-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=ha-mqtt-python&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/nomad-loadbalanced-nts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nomad-loadbalanced-nts&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/nomad-nts-chrony">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nomad-nts-chrony&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/elk-server-compose">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=elk-server-compose&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/opencv-rtsp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=opencv-rtsp&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/opencv2-tracking-algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=opencv2-tracking-algorithm&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/nomad-zabbix-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=nomad-zabbix-server&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/zabbix-server-compose">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=zabbix-server-compose&theme=tokyonight" />
-</a>
-<a href="https://github.com/mpolinowski/yolo-i-know-flowers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mpolinowski&repo=yolo-i-know-flowers&theme=tokyonight" />
-</a>
-
-### Top Languages
-
-<a href="https://github.com/mpolinowski/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpolinowski&theme=tokyonight&hide=java,css,html&langs_count=4" />
-</a>
+![CVE](./stats.webp)
 
 
 ### ⚡ Fun facts:
