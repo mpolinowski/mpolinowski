@@ -1,4 +1,17 @@
+# Mike Polinowski
+
 ## Hi there 👋
+
+**CTO · DevOps / DevSecOps / MLOps · AI & Computer Vision**
+*Plasma physics by education, bare-metal fleets by trade.*
+
+> 16 years from the INSTAR Deutschland GmbH QA bench to the CTO chair. Last five: building CPU-constrained AI inference chains — YOLO → ANPR → VLM — on edge hardware and a 70+ node bare-metal cloud. Still the person to call when Home Assistant stops talking to the camera.
+
+**Currently** — fine-tuning SmolVLM for security-scene description. OpenVINO-exported. CPU-only. No excuses.
+
+Python · PyTorch · OpenVINO · LiteRT · HashiCorp Nomad / Consul · GitLab CI/CD · Zabbix · Node.js · React · Elasticsearch · Linux · MQTT
+
+[mpolinowski.github.io](https://mpolinowski.github.io)
 
 ![CVE](./stats.webp)
 [![GitHub Profile Score](https://img.shields.io/badge/GitHub_Score-27%2F100-red?style=for-the-badge&logo=github)](https://gitalyze.dev?user=mpolinowski)
