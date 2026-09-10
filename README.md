@@ -5,6 +5,8 @@
 **CTO · DevOps / DevSecOps / MLOps · AI & Computer Vision**
 *Plasma physics by education, bare-metal fleets by trade.*
 
+![DevOps - Legacy Infra with Technial Debt](./devops.webp)
+
 > 16 years from the INSTAR Deutschland GmbH QA bench to the CTO chair. Last five: building CPU-constrained AI inference chains — YOLO → ANPR → VLM — on edge hardware and a 70+ node bare-metal cloud. Still the person to call when Home Assistant stops talking to the camera.
 
 **Currently** — fine-tuning SmolVLM for security-scene description. OpenVINO-exported. CPU-only. No excuses.
