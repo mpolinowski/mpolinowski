@@ -5,7 +5,7 @@
 **CTO · DevOps / DevSecOps / MLOps · AI & Computer Vision**
 *Plasma physics by education, bare-metal fleets by trade.*
 
-* **Connect ::** [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mariposa666) [![Telegram](https://img.shields.io/badge/Signal-26A5E4?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#eu/Kentaro.47)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mariposa666) [![Signal](https://img.shields.io/badge/Signal-26A5E4?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#eu/Kentaro.47) [![Github.io](https://img.shields.io/badge/Devdotto-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://mpolinowski.github.io)
 
 ![DevOps - Legacy Infra with Technial Debt](./devops.webp)
 
@@ -15,7 +15,7 @@
 
 Python · PyTorch · OpenVINO · LiteRT · HashiCorp Nomad / Consul · GitLab CI/CD · Zabbix · Node.js · React · Elasticsearch · Linux · MQTT
 
-[mpolinowski.github.io](https://mpolinowski.github.io)
+
 
 ![CVE](./stats.webp)
 [![GitHub Profile Score](https://img.shields.io/badge/GitHub_Score-27%2F100-red?style=for-the-badge&logo=github)](https://gitalyze.dev?user=mpolinowski)
