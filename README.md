@@ -5,7 +5,7 @@
 **CTO · DevOps / DevSecOps / MLOps · AI & Computer Vision**
 *Plasma physics by education, bare-metal fleets by trade.*
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mariposa666) [![Signal](https://img.shields.io/badge/Signal-26A5E4?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#eu/Kentaro.47) [![Github.io](https://img.shields.io/badge/Devdotto-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://mpolinowski.github.io)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mariposa666) [![Signal](https://img.shields.io/badge/Signal-26A5E4?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#eu/Kentaro.47) [![Github.io](https://img.shields.io/badge/Devdotto-0A0A0A?style=for-the-badge&logo=Devlog&logoColor=white)](https://mpolinowski.github.io)
 
 ![DevOps - Legacy Infra with Technial Debt](./devops.webp)
 
