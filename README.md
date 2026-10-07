@@ -7,7 +7,7 @@
 
 ![CyberOps](./devops.webp)
 
-[![Telegram](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=telegram&logoColor=white)](https//wa.me/85251747886)
+[![Telegram](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=telegram&logoColor=white)](https://wa.me/85251747886)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mariposa666)
 [![Signal](https://img.shields.io/badge/Signal-3B45FD?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#eu/Kentaro.47)
 [![GitHub](https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=github&logoColor=white)](https://mpolinowski.github.io)
