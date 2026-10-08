@@ -36,10 +36,11 @@
 [![Terraform](https://img.shields.io/badge/Terraform-9C5FC0?style=flat-square&logo=terraform&logoColor=white)]()
 [![MLflow](https://img.shields.io/badge/MLflow-4F26B9?style=flat-square&logo=apache&logoColor=white)]()
 
-[![Zabbix](https://img.shields.io/badge/Zabbix-DC4952?style=flat-square)]()
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)]()
-[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-FE9800?style=flat-square&logo=elasticsearch&logoColor=black)]()
-[![Kibana](https://img.shields.io/badge/Kibana-FE9800?style=flat-square&logo=elasticsearch&logoColor=black)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)]()
+[![MQTT](https://img.shields.io/badge/MQTT-6295E7?style=flat-square&logo=mqtt&logoColor=white)]()
+[![MCP/FastMCP](https://img.shields.io/badge/MCP_%2F_FastMCP-111111?style=flat-square)]()
+[![mTLS/CA](https://img.shields.io/badge/mTLS_/_CFSSL-5E35B1?style=flat-square&logo=openssl&logoColor=white)]()
+[![Edge/ARM](https://img.shields.io/badge/Edge_/_ARM-3DD68C?style=flat-square&logo=intel&logoColor=white)]()
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)]()
 [![Tauri](https://img.shields.io/badge/Tauri-F5A623?style=flat-square&logo=tauri&logoColor=white)]()
@@ -48,11 +49,10 @@
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)]()
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)]()
-[![MQTT](https://img.shields.io/badge/MQTT-6295E7?style=flat-square&logo=mqtt&logoColor=white)]()
-[![MCP/FastMCP](https://img.shields.io/badge/MCP_%2F_FastMCP-111111?style=flat-square)]()
-[![mTLS/CA](https://img.shields.io/badge/mTLS_/_CFSSL-5E35B1?style=flat-square&logo=openssl&logoColor=white)]()
-[![Edge/ARM](https://img.shields.io/badge/Edge_/_ARM-3DD68C?style=flat-square&logo=intel&logoColor=white)]()
+[![Zabbix](https://img.shields.io/badge/Zabbix-DC4952?style=flat-square)]()
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)]()
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-FE9800?style=flat-square&logo=elasticsearch&logoColor=black)]()
+[![Kibana](https://img.shields.io/badge/Kibana-FE9800?style=flat-square&logo=elasticsearch&logoColor=black)]()
 
 <div align="center">
 
