@@ -16,7 +16,7 @@
 
 > 16 years from the INSTAR Deutschland GmbH QA bench to the CTO chair. Last five: building CPU-constrained AI inference chains — YOLO → ANPR → VLM — on edge hardware and a 70+ node bare-metal cloud. Still the person to call when Home Assistant stops talking to the camera.
 
-**Currently** — fine-tuning CPU-loving SmolVLM for security-scene description and engineering agentic solutions - locally hosted models, MCP interfaces, testing harnesses and retrieval augmented generation. Running bare-metal, continously deployed orchestration with rock-solid motoring and noise-free degradation notifications.
+**Currently** — fine-tuning CPU-loving SmolVLM for security-scene description and engineering agentic solutions - locally hosted models, MCP interfaces, testing harnesses and retrieval augmented generation. Running bare-metal, continously deployed orchestration with rock-solid monitoring and noise-free degradation notifications.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)]()
