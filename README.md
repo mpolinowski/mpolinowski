@@ -56,10 +56,8 @@
 
 <div align="center">
 
-![CyberOps](./stats.webp)
-
-![CVE](./stats.webp)
-[![GitHub Profile Score](https://img.shields.io/badge/GitHub_Score-89%2F100-red?style=for-the-badge&logo=github)](https://gitalyze.dev?user=mpolinowski)
+![Stats](./stats.webp)
+[![GitHub Profile Score](https://img.shields.io/badge/GitHub_Score-89%2F100-green?style=for-the-badge&logo=github)](https://gitalyze.dev?user=mpolinowski)
 ![GitHub User's stars](https://img.shields.io/github/stars/mpolinowski?style=for-the-badge)
 
 </div>
